@@ -10,4 +10,5 @@
 
 ### 3 About the spider
 
-* The spider doesn't work for all keywords, I'm trying to fix the problem
+* The spider doesn't work for all keywords, I'm trying to fix the problem.
+* Problem solved. Take care of the /' in request's text.
